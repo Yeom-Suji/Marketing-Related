@@ -4,7 +4,7 @@ These are my Marketing-Related Activities...🛍
 <br/>
 
 > **Note** All of these materials are my own personal results, so unauthorized use is prohibited! And all copyrights belong to me!!<br/>
->        ***(sorted by newest)
+>        ***(sorted by newest)***
 <br/>
 <br/>
 <br/>
@@ -116,10 +116,10 @@ These are my Marketing-Related Activities...🛍
 
 
    
-   **1. LH Young Creator (영상팀)
-   **2. 99Space 서포터즈
-   **3. 동아일보 Q-Magazine 서포터즈
-   **4. 조선일보 ALC 서포터즈
+   **1. LH Young Creator (영상팀)**
+   **2. 99Space 서포터즈**
+   **3. 동아일보 Q-Magazine 서포터즈**
+   **4. 조선일보 ALC 서포터즈**
 
 <br/>
 <br/>
