@@ -8,6 +8,8 @@ These are my Marketing-Related Activities...🛍
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
 
 ```bash
    IT동아 주최 브랜드 매니저 직무 훈련 공모전 [대상] 수상
@@ -36,6 +38,8 @@ These are my Marketing-Related Activities...🛍
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
 
 ```bash
    대기업 브랜드기획자 마케터 취준생 취업역량에셋 강화 프로젝트
@@ -46,11 +50,7 @@ These are my Marketing-Related Activities...🛍
  <br/>
  <br/>
  
-1. 2차 기업 발표 기획안<br/>
-<img src="https://github.com/Yeom-Suji/Marketing-Related/assets/127907081/9db26c93-6391-4eda-a76e-0bd5c0097ed3" width="500" height="600"><br/>
-<br/>
-<br/>
-2. 3차 기업 발표 자료<br/>
+📜 기업 발표 자료<br/>
 <img src="https://github.com/Yeom-Suji/Marketing-Related/assets/127907081/dbe94350-d152-481f-a4cb-945a28543da2" width="450" height="280">
 <img src="https://github.com/Yeom-Suji/Marketing-Related/assets/127907081/b0fd5bf9-e66b-4214-864c-e896f6267feb" width="450" height="280">
 <img src="https://github.com/Yeom-Suji/Marketing-Related/assets/127907081/eadcf570-e4a9-47b5-9f91-4e86c67b7b44" width="450" height="280">
@@ -70,3 +70,29 @@ These are my Marketing-Related Activities...🛍
 > https://www.instagram.com/defi_piper/<br/>
 > 메타버스 콘텐츠 허브 구현<br/>
 > https://zep.us/play/2zxJ0J
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+```bash
+   학과 조교
+   ```
+
+```bash
+   학과장 특별장학생 & 특수외국어진흥원 유트브 콘텐츠 제작팀
+   ```
+
+```bash
+   서포터즈 활동
+   ```
+   
+   1. LH Young Creator (영상팀)
+   2. 99Space 서포터즈
+   3. 동아일보 Q-Magazine 서포터즈
+   4. 조선일보 ALC 서포터즈
+
+
+
