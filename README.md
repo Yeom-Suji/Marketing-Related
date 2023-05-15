@@ -15,12 +15,12 @@ These are my Marketing-Related Activities...🛍
    IT동아 주최 브랜드 매니저 직무 훈련 공모전 [대상] 수상
    ```
    - LG CNS<br/>
-<img src="https://github.com/Yeom-Suji/Marketing-Related/assets/127907081/4e7ffbc8-3085-4c03-8fb5-4f41f5fb00b3" width="450" height="280">
-<img src="https://github.com/Yeom-Suji/Marketing-Related/assets/127907081/a98cd116-4efc-4709-92b8-bcaff1323be4" width="450" height="280">
-<img src="https://github.com/Yeom-Suji/Marketing-Related/assets/127907081/faa96650-c6be-4f43-9f25-63c4637f1dec" width="450" height="280">
-<img src="https://github.com/Yeom-Suji/Marketing-Related/assets/127907081/ec588d76-7a87-4130-b073-c060b180e003" width="450" height="280">
-<img src="https://github.com/Yeom-Suji/Marketing-Related/assets/127907081/d285e881-0cb4-4a55-857c-51db5b6eef11" width="450" height="280">
-<img src="https://github.com/Yeom-Suji/Marketing-Related/assets/127907081/9ed38155-7337-4d7a-87ca-621ad02aa415" width="450" height="280">
+<img src="https://github.com/Yeom-Suji/Marketing-Related/assets/127907081/4e7ffbc8-3085-4c03-8fb5-4f41f5fb00b3" width="400" height="230">
+<img src="https://github.com/Yeom-Suji/Marketing-Related/assets/127907081/a98cd116-4efc-4709-92b8-bcaff1323be4" width="400" height="230">
+<img src="https://github.com/Yeom-Suji/Marketing-Related/assets/127907081/faa96650-c6be-4f43-9f25-63c4637f1dec" width="400" height="230">
+<img src="https://github.com/Yeom-Suji/Marketing-Related/assets/127907081/ec588d76-7a87-4130-b073-c060b180e003" width="400" height="230">
+<img src="https://github.com/Yeom-Suji/Marketing-Related/assets/127907081/d285e881-0cb4-4a55-857c-51db5b6eef11" width="400" height="230">
+<img src="https://github.com/Yeom-Suji/Marketing-Related/assets/127907081/9ed38155-7337-4d7a-87ca-621ad02aa415" width="400" height="230">
 <br/>
 <br/>
    
