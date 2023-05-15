@@ -41,7 +41,6 @@ These are my Marketing-Related Activities...🛍
 <br/>
 <br/>
 
-<span style="color:yellow">노란 글씨입니다.</span>
 
 
 ### 대기업 브랜드기획자 마케터 취준생 취업역량에셋 강화 프로젝트
