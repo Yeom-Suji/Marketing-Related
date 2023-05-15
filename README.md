@@ -12,6 +12,7 @@ These are my Marketing-Related Activities...🛍
 ```bash
    IT동아 주최 브랜드 매니저 직무 훈련 공모전 [대상] 수상
    ```
+   - LG CNS<br/>
 <img src="https://github.com/Yeom-Suji/Marketing-Related/assets/127907081/4e7ffbc8-3085-4c03-8fb5-4f41f5fb00b3" width="450" height="280">
 <img src="https://github.com/Yeom-Suji/Marketing-Related/assets/127907081/a98cd116-4efc-4709-92b8-bcaff1323be4" width="450" height="280">
 <img src="https://github.com/Yeom-Suji/Marketing-Related/assets/127907081/faa96650-c6be-4f43-9f25-63c4637f1dec" width="450" height="280">
@@ -31,3 +32,23 @@ These are my Marketing-Related Activities...🛍
 > [https://youtube.com/shorts/MV5Q0WrLB3c](https://youtube.com/shorts/MV5Q0WrLB3c)<br/>
 > LG CNS 2팀 - 버터타임(2)<br/>
 > [(https://youtube.com/shorts/j6FCjx5YzGw)](https://youtube.com/shorts/j6FCjx5YzGw)<br/>
+
+<br/>
+<br/>
+<br/>
+
+```bash
+   대기업 브랜드기획자 마케터 취준생 취업역량에셋 강화 프로젝트
+   ```
+   - Wemade 실무프로젝트 기업출제과제<br/>
+ <center><img src="https://github.com/Yeom-Suji/Marketing-Related/assets/127907081/9381fde7-0b28-46ff-80fe-e163cf55abe9" width="490" height="280"></center>
+ <br/>
+ <br/>
+ <br/>
+ 
+1. 2차 기업 발표 기획안<br/>
+<img src="https://github.com/Yeom-Suji/Marketing-Related/assets/127907081/9db26c93-6391-4eda-a76e-0bd5c0097ed3"><br/>
+<br/>
+
+2. 3차 기업 발표 자료
+
