@@ -91,16 +91,16 @@ These are my Marketing-Related Activities...🛍
    학과장 특별장학생 & 특수외국어진흥원 유튜브 콘텐츠 제작팀
    ```
 1. 학과장 특별장학생<br/>
-학과 유튜브 관리 및 영상 제작<br/>
 
+> 학과 유튜브 관리 및 영상 제작<br/>
 > 학과행사:        https://youtu.be/eCpy2veojls<br/>
 > 학교생활:        https://youtu.be/KsQB0-1B32g<br/>
 > 쇼츠영상:        https://youtube.com/shorts/dyQ9Pu-rOHg?feature=share<br/>
 <br/>
  
 2. 특수외국어진흥원 유튜브 콘텐츠 제작팀<br/>
-이란어 여행회화 시리즈 총 3편 제작<br/>
 
+> 이란어 여행회화 시리즈 총 3편 제작<br/>
 > 1편:    https://www.youtube.com/watch?v=CbeCx8LR9WU&list=PLNHcRvrmmJsJw3J3eUGKLwI39i1tyVy0h&index=7<br/>
 > 2편:    https://www.youtube.com/watch?v=o_V_H0jJN4U&list=PLNHcRvrmmJsJw3J3eUGKLwI39i1tyVy0h&index=8<br/>
 > 3편:    https://www.youtube.com/watch?v=c26g3InXaMI&list=PLNHcRvrmmJsJw3J3eUGKLwI39i1tyVy0h&index=9<br/>
