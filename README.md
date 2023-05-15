@@ -47,8 +47,26 @@ These are my Marketing-Related Activities...🛍
  <br/>
  
 1. 2차 기업 발표 기획안<br/>
-<img src="https://github.com/Yeom-Suji/Marketing-Related/assets/127907081/9db26c93-6391-4eda-a76e-0bd5c0097ed3"><br/>
+<img src="https://github.com/Yeom-Suji/Marketing-Related/assets/127907081/9db26c93-6391-4eda-a76e-0bd5c0097ed3" width="500" height="600"><br/>
+<br/>
+<br/>
+2. 3차 기업 발표 자료<br/>
+<img src="https://github.com/Yeom-Suji/Marketing-Related/assets/127907081/dbe94350-d152-481f-a4cb-945a28543da2" width="450" height="280">
+<img src="https://github.com/Yeom-Suji/Marketing-Related/assets/127907081/b0fd5bf9-e66b-4214-864c-e896f6267feb" width="450" height="280">
+<img src="https://github.com/Yeom-Suji/Marketing-Related/assets/127907081/eadcf570-e4a9-47b5-9f91-4e86c67b7b44" width="450" height="280">
+<img src="https://github.com/Yeom-Suji/Marketing-Related/assets/127907081/fb85a019-23fb-4bbf-b784-ce3a4d5e8dd0" width="450" height="280">
+<img src="https://github.com/Yeom-Suji/Marketing-Related/assets/127907081/8bc898b3-aa59-4172-8300-e4a8763d1ecd" width="450" height="280">
+<img src="https://github.com/Yeom-Suji/Marketing-Related/assets/127907081/d9170d7a-46c5-41b5-9b02-c6c226e86c6e" width="450" height="280">
+<img src="https://github.com/Yeom-Suji/Marketing-Related/assets/127907081/54d34af9-c034-4659-b5b6-c9018d44156f" width="450" height="280">
+<img src="https://github.com/Yeom-Suji/Marketing-Related/assets/127907081/be2276be-7ba1-4833-833f-6d9c25886633" width="450" height="280">
+<br/>
 <br/>
 
-2. 3차 기업 발표 자료
+🎮 프로젝트 결과물
 
+> 인스타 디파이 갤러리<br/>
+> https://www.instagram.com/defi.gallery/<br/>
+> 인스타 디파이 파이퍼<br/>
+> https://www.instagram.com/defi_piper/<br/>
+> 메타버스 콘텐츠 허브 구현<br/>
+> https://zep.us/play/2zxJ0J
