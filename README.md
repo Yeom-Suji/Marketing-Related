@@ -116,10 +116,10 @@ These are my Marketing-Related Activities...🛍
 
 
    
-   **1. LH Young Creator (영상팀)**
-   **2. 99Space 서포터즈**
-   **3. 동아일보 Q-Magazine 서포터즈**
-   **4. 조선일보 ALC 서포터즈**
+   **1. LH Young Creator (영상팀)**<br/>
+   **2. 99Space 서포터즈**<br/>
+   **3. 동아일보 Q-Magazine 서포터즈**<br/>
+   **4. 조선일보 ALC 서포터즈**<br/>
 
 <br/>
 <br/>
