@@ -1,25 +1,26 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Marketing%20Related&fontSize=60)
 
 These are my Marketing-Related Activities...🛍
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-
+<br/>
 
 > **Note** All of these materials are my own personal results, so unauthorized use is prohibited! And all copyrights belong to me!!<br/>
 >        (sorted by newest)
+<br/>
+<br/>
+<br/>
 
 ```bash
    IT동아 주최 브랜드 매니저 직무 훈련 공모전 [대상] 수상
    ```
-
-
+<img src="https://github.com/Yeom-Suji/Marketing-Related/assets/127907081/4e7ffbc8-3085-4c03-8fb5-4f41f5fb00b3" width="450" height="280">
+<img src="https://github.com/Yeom-Suji/Marketing-Related/assets/127907081/a98cd116-4efc-4709-92b8-bcaff1323be4" width="450" height="280">
+<img src="https://github.com/Yeom-Suji/Marketing-Related/assets/127907081/faa96650-c6be-4f43-9f25-63c4637f1dec" width="450" height="280">
+<img src="https://github.com/Yeom-Suji/Marketing-Related/assets/127907081/ec588d76-7a87-4130-b073-c060b180e003" width="450" height="280">
+<img src="https://github.com/Yeom-Suji/Marketing-Related/assets/127907081/d285e881-0cb4-4a55-857c-51db5b6eef11" width="450" height="280">
+<img src="https://github.com/Yeom-Suji/Marketing-Related/assets/127907081/9ed38155-7337-4d7a-87ca-621ad02aa415" width="450" height="280">
+<br/>
+<br/>
    
-
-
-
-
-
-
 🎞영상 결과물
 
 > LG CNS 2팀 - 스마트물류영상 "우리 회사 진짜 X됐어"<br/>
