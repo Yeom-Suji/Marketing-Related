@@ -4,17 +4,17 @@ These are my Marketing-Related Activities...🛍
 <br/>
 
 > **Note** All of these materials are my own personal results, so unauthorized use is prohibited! And all copyrights belong to me!!<br/>
->        (sorted by newest)
+>        ***(sorted by newest)
 <br/>
 <br/>
 <br/>
 <br/>
 <br/>
 
-```bash
-   IT동아 주최 브랜드 매니저 직무 훈련 공모전 [대상] 수상
-   ```
-   - LG CNS<br/>
+
+### IT동아 주최 브랜드 매니저 직무 훈련 공모전 [대상] 수상
+
+   - **LG CNS<br/>**
 <img src="https://github.com/Yeom-Suji/Marketing-Related/assets/127907081/4e7ffbc8-3085-4c03-8fb5-4f41f5fb00b3" width="400" height="230">
 <img src="https://github.com/Yeom-Suji/Marketing-Related/assets/127907081/a98cd116-4efc-4709-92b8-bcaff1323be4" width="400" height="230">
 <img src="https://github.com/Yeom-Suji/Marketing-Related/assets/127907081/faa96650-c6be-4f43-9f25-63c4637f1dec" width="400" height="230">
@@ -24,7 +24,7 @@ These are my Marketing-Related Activities...🛍
 <br/>
 <br/>
    
-🎞영상 결과물
+  - **영상 결과물🎞**
 
 > LG CNS 2팀 - 스마트물류영상 "우리 회사 진짜 X됐어"<br/>
 > [https://youtu.be/HKCTMRxhVNM](https://youtu.be/HKCTMRxhVNM)<br/>
@@ -41,16 +41,18 @@ These are my Marketing-Related Activities...🛍
 <br/>
 <br/>
 
-```bash
-   대기업 브랜드기획자 마케터 취준생 취업역량에셋 강화 프로젝트
-   ```
-   - Wemade 실무프로젝트 기업출제과제<br/>
+<span style="color:yellow">노란 글씨입니다.</span>
+
+
+### 대기업 브랜드기획자 마케터 취준생 취업역량에셋 강화 프로젝트
+
+   - **Wemade 실무프로젝트 기업출제과제<br/>**
  <center><img src="https://github.com/Yeom-Suji/Marketing-Related/assets/127907081/9381fde7-0b28-46ff-80fe-e163cf55abe9" width="500" height="280"></center>
  <br/>
  <br/>
  <br/>
  
-📜 기업 발표 자료<br/>
+  - **📜 기업 발표 자료<br/>**
 <img src="https://github.com/Yeom-Suji/Marketing-Related/assets/127907081/dbe94350-d152-481f-a4cb-945a28543da2" width="400" height="230">
 <img src="https://github.com/Yeom-Suji/Marketing-Related/assets/127907081/b0fd5bf9-e66b-4214-864c-e896f6267feb" width="400" height="230">
 <img src="https://github.com/Yeom-Suji/Marketing-Related/assets/127907081/eadcf570-e4a9-47b5-9f91-4e86c67b7b44" width="400" height="230">
@@ -62,7 +64,7 @@ These are my Marketing-Related Activities...🛍
 <br/>
 <br/>
 
-🎮 프로젝트 결과물
+  - **🎮 프로젝트 결과물**
 
 > 인스타 디파이 갤러리<br/>
 > https://www.instagram.com/defi.gallery/<br/>
@@ -77,9 +79,9 @@ These are my Marketing-Related Activities...🛍
 <br/>
 <br/>
 
-```bash
-   학과 조교
-   ```
+
+### 학과 조교
+
    
 <br/>
 <br/>
@@ -87,10 +89,10 @@ These are my Marketing-Related Activities...🛍
 <br/>
 <br/>
 
-```bash
-   학과장 특별장학생 & 특수외국어진흥원 유튜브 콘텐츠 제작팀
-   ```
-1. 학과장 특별장학생<br/>
+
+### 학과장 특별장학생 & 특수외국어진흥원 유튜브 콘텐츠 제작팀
+
+  - **학과장 특별장학생<br/>**
 
 > 학과 유튜브 관리 및 영상 제작<br/>
 > 학과행사:        https://youtu.be/eCpy2veojls<br/>
@@ -98,7 +100,7 @@ These are my Marketing-Related Activities...🛍
 > 쇼츠영상:        https://youtube.com/shorts/dyQ9Pu-rOHg?feature=share<br/>
 <br/>
  
-2. 특수외국어진흥원 유튜브 콘텐츠 제작팀<br/>
+  - **특수외국어진흥원 유튜브 콘텐츠 제작팀<br/>**
 
 > 이란어 여행회화 시리즈 총 3편 제작<br/>
 > 1편:    https://www.youtube.com/watch?v=CbeCx8LR9WU&list=PLNHcRvrmmJsJw3J3eUGKLwI39i1tyVy0h&index=7<br/>
@@ -110,15 +112,15 @@ These are my Marketing-Related Activities...🛍
 <br/>
 <br/>
 
-```bash
-   서포터즈 활동
-   ```
+
+### 서포터즈 활동
+
 
    
-   1. LH Young Creator (영상팀)
-   2. 99Space 서포터즈
-   3. 동아일보 Q-Magazine 서포터즈
-   4. 조선일보 ALC 서포터즈
+   **1. LH Young Creator (영상팀)
+   **2. 99Space 서포터즈
+   **3. 동아일보 Q-Magazine 서포터즈
+   **4. 조선일보 ALC 서포터즈
 
 <br/>
 <br/>
@@ -126,8 +128,8 @@ These are my Marketing-Related Activities...🛍
 <br/>
 <br/>
 
-```bash
-   특수외국어진흥원 특수외국어로 한국문화유산 소개하기 영상 [작품상]
-   ```
+
+### 특수외국어진흥원 특수외국어로 한국문화유산 소개하기 영상 [작품상]
+
 https://www.youtube.com/watch?v=7WG3goEBcew&list=PLNHcRvrmmJsJw3J3eUGKLwI39i1tyVy0h&index=5
 
