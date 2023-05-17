@@ -117,7 +117,7 @@ These are my Marketing-Related Activities...🛍
 ### 서포터즈 활동
 
 
-   **1. LG CNS Quinoa 서포터즈<br/>
+   **1. LG CNS Quinoa 서포터즈**<br/>
    **2. LH Young Creator (영상팀)**<br/>
    > LH한국토지주택공사 공식채널 업로드: https://www.youtube.com/watch?v=92iEOQtv3FM<br/>
    > 제작 영상 플레이리스트: https://www.youtube.com/playlist?list=PLsotxW4PTDYRuwPJq6-PSilUa4GHD7Nth<br/>
@@ -134,6 +134,7 @@ These are my Marketing-Related Activities...🛍
    <img src="https://github.com/Yeom-Suji/Marketing-Related/assets/127907081/b6871934-93ac-4aa6-bb14-11acce3754db" width="300" height="300">
 
    <br/>
+   
    **5. 조선일보 ALC 서포터즈**<br/>
 
 <br/>
