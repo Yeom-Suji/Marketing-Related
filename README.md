@@ -80,6 +80,8 @@ These are my Marketing-Related Activities...🛍
 
 
 ### 학과 조교
+<img src="https://github.com/Yeom-Suji/Marketing-Related/assets/127907081/123e7a85-18e6-4e23-9e04-d59d5ad79712" width="300" height="300">
+<img src="https://github.com/Yeom-Suji/Marketing-Related/assets/127907081/6c9efbab-9ffc-4360-b68e-4ee7926627d3" width="300" height="300">
 
    
 <br/>
@@ -115,21 +117,24 @@ These are my Marketing-Related Activities...🛍
 ### 서포터즈 활동
 
 
-   
-   **1. LH Young Creator (영상팀)**<br/>
+   **1. LG CNS Quinoa 서포터즈<br/>
+   **2. LH Young Creator (영상팀)**<br/>
    > LH한국토지주택공사 공식채널 업로드: https://www.youtube.com/watch?v=92iEOQtv3FM<br/>
    > 제작 영상 플레이리스트: https://www.youtube.com/playlist?list=PLsotxW4PTDYRuwPJq6-PSilUa4GHD7Nth<br/>
    <br/>
    
-   **2. 99Space 서포터즈**
+   **3. 99Space 서포터즈**
    <br/>
   
    > 카드뉴스 리스트(총6편): https://blog.naver.com/PostList.naver?blogId=sujilove001&categoryNo=16&from=postList#<br/>
    
    <br/>
-   **3. 동아일보 Q-Magazine 서포터즈**<br/>
+   **4. 동아일보 Q-Magazine 서포터즈**<br/>
+   <img src="https://github.com/Yeom-Suji/Marketing-Related/assets/127907081/15803343-8f68-4347-9509-778479691895" width="300" height="300">
+   <img src="https://github.com/Yeom-Suji/Marketing-Related/assets/127907081/b6871934-93ac-4aa6-bb14-11acce3754db" width="300" height="300">
+
    <br/>
-   **4. 조선일보 ALC 서포터즈**<br/>
+   **5. 조선일보 ALC 서포터즈**<br/>
 
 <br/>
 <br/>
