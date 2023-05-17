@@ -117,11 +117,11 @@ These are my Marketing-Related Activities...🛍
 
    
    **1. LH Young Creator (영상팀)**<br/>
-   LH한국토지주택공사 공식채널 업로드: https://www.youtube.com/watch?v=92iEOQtv3FM<br/>
-   제작 영상 플레이리스트: https://www.youtube.com/playlist?list=PLsotxW4PTDYRuwPJq6-PSilUa4GHD7Nth<br/>
+   > LH한국토지주택공사 공식채널 업로드: https://www.youtube.com/watch?v=92iEOQtv3FM<br/>
+   > 제작 영상 플레이리스트: https://www.youtube.com/playlist?list=PLsotxW4PTDYRuwPJq6-PSilUa4GHD7Nth<br/>
    <br/>
    **2. 99Space 서포터즈**<br/>
-   카드뉴스 리스트(총6편): https://blog.naver.com/PostList.naver?blogId=sujilove001&categoryNo=16&from=postList#<br/>
+   > 카드뉴스 리스트(총6편): https://blog.naver.com/PostList.naver?blogId=sujilove001&categoryNo=16&from=postList#<br/>
    <br/>
    **3. 동아일보 Q-Magazine 서포터즈**<br/>
    <br/>
