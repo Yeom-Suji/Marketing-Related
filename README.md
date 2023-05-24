@@ -46,7 +46,7 @@ These are my Marketing-Related Activities...🛍
 > 인스타 디파이 파이퍼<br/>
 > https://www.instagram.com/defi_piper/<br/>
 > 메타버스 콘텐츠 허브 구현<br/>
-> https://zep.us/play/2zxJ0J
+> https://zep.us/play/2zxJ0J<br/>
 > 브랜드 매니저 직무 훈련 공모전 [[우수상](https://github.com/Yeom-Suji/Marketing-Related/blob/main/WEMADE(%EC%9C%84%EB%A9%94%EC%9D%B4%EB%93%9C)%20%EC%9A%B0%EC%88%98%EC%83%81.pdf)]
 
 <br/>
