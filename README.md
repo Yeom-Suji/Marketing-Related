@@ -10,20 +10,24 @@ These are my Marketing-Related Activities...🛍
 <br/>
 <br/>
 <br/>
-### 대기업 브랜드기획자 마케터 취준생 취업역량에셋 강화 프로젝트 
 
-   - **IT동아 우수인재추천서🏆<br/>**
+### 대기업 브랜드기획자 마케터 취준생 취업역량에셋 강화 프로젝트 <br/>
+<br/>
+
+  
+  - **IT동아 우수인재추천서 🏆** <br/>
    [[우수인재추천서](https://github.com/Yeom-Suji/Marketing-Related/blob/main/%EC%9A%B0%EC%88%98%EC%9D%B8%EC%9E%AC%EC%B6%94%EC%B2%9C%EC%84%9C.pdf)]
  <br/>
  <br/>
  <br/>
-   - **Wemade 실무프로젝트 기업출제과제<br/>**
+ 
+   - **Wemade 실무프로젝트 기업출제과제 📢** <br/>
  <center><img src="https://github.com/Yeom-Suji/Marketing-Related/assets/127907081/9381fde7-0b28-46ff-80fe-e163cf55abe9" width="500" height="280"></center>
  <br/>
  <br/>
  <br/>
  
-  - **📜 기업 발표 자료<br/>**
+  - **기업 발표 자료 📜** <br/>
 <img src="https://github.com/Yeom-Suji/Marketing-Related/assets/127907081/dbe94350-d152-481f-a4cb-945a28543da2" width="400" height="230">
 <img src="https://github.com/Yeom-Suji/Marketing-Related/assets/127907081/b0fd5bf9-e66b-4214-864c-e896f6267feb" width="400" height="230">
 <img src="https://github.com/Yeom-Suji/Marketing-Related/assets/127907081/eadcf570-e4a9-47b5-9f91-4e86c67b7b44" width="400" height="230">
@@ -35,7 +39,7 @@ These are my Marketing-Related Activities...🛍
 <br/>
 <br/>
 
-  - **🎮 프로젝트 결과물**
+  - **프로젝트 결과물 🎮**
 
 > 인스타 디파이 갤러리<br/>
 > https://www.instagram.com/defi.gallery/<br/>
@@ -43,6 +47,7 @@ These are my Marketing-Related Activities...🛍
 > https://www.instagram.com/defi_piper/<br/>
 > 메타버스 콘텐츠 허브 구현<br/>
 > https://zep.us/play/2zxJ0J
+> 브랜드 매니저 직무 훈련 공모전 [[우수상](https://github.com/Yeom-Suji/Marketing-Related/blob/main/WEMADE(%EC%9C%84%EB%A9%94%EC%9D%B4%EB%93%9C)%20%EC%9A%B0%EC%88%98%EC%83%81.pdf)]
 
 <br/>
 <br/>
