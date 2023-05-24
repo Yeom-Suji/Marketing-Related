@@ -146,7 +146,9 @@ These are my Marketing-Related Activities...🛍
    > 카드뉴스 리스트(총6편): https://blog.naver.com/PostList.naver?blogId=sujilove001&categoryNo=16&from=postList#<br/>
    
    <br/>
+   
    **4. 동아일보 Q-Magazine 서포터즈**<br/>
+   
    <img src="https://github.com/Yeom-Suji/Marketing-Related/assets/127907081/15803343-8f68-4347-9509-778479691895" width="300" height="300">
    <img src="https://github.com/Yeom-Suji/Marketing-Related/assets/127907081/b6871934-93ac-4aa6-bb14-11acce3754db" width="300" height="300">
 
