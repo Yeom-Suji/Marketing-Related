@@ -15,7 +15,7 @@ These are my Marketing-Related Activities...🛍
 ### IT동아 주최 브랜드 매니저 직무 훈련 공모전 [[대상](https://github.com/Yeom-Suji/Marketing-Related/blob/main/LG%20CNS%20%EB%8C%80%EC%83%81.pdf)] 수상
 
    - **LG CNS<br/>**
-   - 발표자료 일부 발췌
+발표자료 일부 발췌
 <img src="https://github.com/Yeom-Suji/Marketing-Related/assets/127907081/4e7ffbc8-3085-4c03-8fb5-4f41f5fb00b3" width="400" height="230">
 <img src="https://github.com/Yeom-Suji/Marketing-Related/assets/127907081/a98cd116-4efc-4709-92b8-bcaff1323be4" width="400" height="230">
 <img src="https://github.com/Yeom-Suji/Marketing-Related/assets/127907081/faa96650-c6be-4f43-9f25-63c4637f1dec" width="400" height="230">
@@ -67,7 +67,7 @@ These are my Marketing-Related Activities...🛍
  <br/>
  
   - **기업 발표 자료 📜** <br/>
-  - 발표자료 일부 발췌
+발표자료 일부 발췌
 <img src="https://github.com/Yeom-Suji/Marketing-Related/assets/127907081/dbe94350-d152-481f-a4cb-945a28543da2" width="400" height="230">
 <img src="https://github.com/Yeom-Suji/Marketing-Related/assets/127907081/b0fd5bf9-e66b-4214-864c-e896f6267feb" width="400" height="230">
 <img src="https://github.com/Yeom-Suji/Marketing-Related/assets/127907081/eadcf570-e4a9-47b5-9f91-4e86c67b7b44" width="400" height="230">
