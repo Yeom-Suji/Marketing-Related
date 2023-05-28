@@ -11,6 +11,41 @@ These are my Marketing-Related Activities...🛍
 <br/>
 <br/>
 
+
+### IT동아 주최 브랜드 매니저 직무 훈련 공모전 [[대상](https://github.com/Yeom-Suji/Marketing-Related/blob/main/LG%20CNS%20%EB%8C%80%EC%83%81.pdf)] 수상
+
+   - **LG CNS<br/>**
+<img src="https://github.com/Yeom-Suji/Marketing-Related/assets/127907081/4e7ffbc8-3085-4c03-8fb5-4f41f5fb00b3" width="400" height="230">
+<img src="https://github.com/Yeom-Suji/Marketing-Related/assets/127907081/a98cd116-4efc-4709-92b8-bcaff1323be4" width="400" height="230">
+<img src="https://github.com/Yeom-Suji/Marketing-Related/assets/127907081/faa96650-c6be-4f43-9f25-63c4637f1dec" width="400" height="230">
+<img src="https://github.com/Yeom-Suji/Marketing-Related/assets/127907081/ec588d76-7a87-4130-b073-c060b180e003" width="400" height="230">
+<img src="https://github.com/Yeom-Suji/Marketing-Related/assets/127907081/d285e881-0cb4-4a55-857c-51db5b6eef11" width="400" height="230">
+<img src="https://github.com/Yeom-Suji/Marketing-Related/assets/127907081/9ed38155-7337-4d7a-87ca-621ad02aa415" width="400" height="230">
+<br/>
+<br/>
+   
+  - **영상 결과물🎞**
+
+> LG CNS 2팀 - 스마트물류영상 "우리 회사 진짜 X됐어"<br/>
+> [https://youtu.be/HKCTMRxhVNM](https://youtu.be/HKCTMRxhVNM)<br/>
+> LG CNS 2팀 - 하루조각, 버터타임 영상 "인싸 복학생 미남 상환 오빠와 인싸가 되고 싶은 TMI 전문가 준철 선배"<br/>
+> [https://youtu.be/49kvdiiAavk](https://youtu.be/49kvdiiAavk)<br/>
+> LG CNS 2팀 - 하루조각(1)<br/>
+> [https://youtube.com/shorts/MV5Q0WrLB3c](https://youtube.com/shorts/MV5Q0WrLB3c)<br/>
+> LG CNS 2팀 - 버터타임(2)<br/>
+> [(https://youtube.com/shorts/j6FCjx5YzGw)](https://youtube.com/shorts/j6FCjx5YzGw)<br/>
+ 
+<br/>
+<br/>
+
+  - **LG CNS 실무활동확인서🔎**<br/>
+  [[실무활동확인서](https://github.com/Yeom-Suji/Marketing-Related/blob/main/LG%20CNS%20%EC%8B%A4%EB%AC%B4%ED%99%9C%EB%8F%99%ED%99%95%EC%9D%B8%EC%84%9C.pdf)]<br/>
+  
+<br/>
+<br/>
+<br/>
+
+
 ### 대기업 브랜드기획자 마케터 취준생 취업역량에셋 강화 프로젝트 <br/>
 <br/>
 
@@ -59,38 +94,7 @@ These are my Marketing-Related Activities...🛍
 <br/>
 
 
-### IT동아 주최 브랜드 매니저 직무 훈련 공모전 [[대상](https://github.com/Yeom-Suji/Marketing-Related/blob/main/LG%20CNS%20%EB%8C%80%EC%83%81.pdf)] 수상
 
-   - **LG CNS<br/>**
-<img src="https://github.com/Yeom-Suji/Marketing-Related/assets/127907081/4e7ffbc8-3085-4c03-8fb5-4f41f5fb00b3" width="400" height="230">
-<img src="https://github.com/Yeom-Suji/Marketing-Related/assets/127907081/a98cd116-4efc-4709-92b8-bcaff1323be4" width="400" height="230">
-<img src="https://github.com/Yeom-Suji/Marketing-Related/assets/127907081/faa96650-c6be-4f43-9f25-63c4637f1dec" width="400" height="230">
-<img src="https://github.com/Yeom-Suji/Marketing-Related/assets/127907081/ec588d76-7a87-4130-b073-c060b180e003" width="400" height="230">
-<img src="https://github.com/Yeom-Suji/Marketing-Related/assets/127907081/d285e881-0cb4-4a55-857c-51db5b6eef11" width="400" height="230">
-<img src="https://github.com/Yeom-Suji/Marketing-Related/assets/127907081/9ed38155-7337-4d7a-87ca-621ad02aa415" width="400" height="230">
-<br/>
-<br/>
-   
-  - **영상 결과물🎞**
-
-> LG CNS 2팀 - 스마트물류영상 "우리 회사 진짜 X됐어"<br/>
-> [https://youtu.be/HKCTMRxhVNM](https://youtu.be/HKCTMRxhVNM)<br/>
-> LG CNS 2팀 - 하루조각, 버터타임 영상 "인싸 복학생 미남 상환 오빠와 인싸가 되고 싶은 TMI 전문가 준철 선배"<br/>
-> [https://youtu.be/49kvdiiAavk](https://youtu.be/49kvdiiAavk)<br/>
-> LG CNS 2팀 - 하루조각(1)<br/>
-> [https://youtube.com/shorts/MV5Q0WrLB3c](https://youtube.com/shorts/MV5Q0WrLB3c)<br/>
-> LG CNS 2팀 - 버터타임(2)<br/>
-> [(https://youtube.com/shorts/j6FCjx5YzGw)](https://youtube.com/shorts/j6FCjx5YzGw)<br/>
- 
-<br/>
-<br/>
-
-  - **LG CNS 실무활동확인서🔎**<br/>
-  [[실무활동확인서](https://github.com/Yeom-Suji/Marketing-Related/blob/main/LG%20CNS%20%EC%8B%A4%EB%AC%B4%ED%99%9C%EB%8F%99%ED%99%95%EC%9D%B8%EC%84%9C.pdf)]<br/>
-  
-<br/>
-<br/>
-<br/>
 
 
 
