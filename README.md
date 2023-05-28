@@ -24,7 +24,7 @@ These are my Marketing-Related Activities...🛍
 <img src="https://github.com/Yeom-Suji/Marketing-Related/assets/127907081/9ed38155-7337-4d7a-87ca-621ad02aa415" width="400" height="230">
 <br/>
 <br/>
-[[발표자료 전체]](https://github.com/Yeom-Suji/Marketing-Related/blob/main/IT%20%EB%8F%99%EC%95%84%20%EA%B3%B5%EB%AA%A8%EC%A0%84_LGCNS%EC%9E%90%EB%A3%8C.pdf)
+[발표자료 전체](https://github.com/Yeom-Suji/Marketing-Related/blob/main/IT%20%EB%8F%99%EC%95%84%20%EA%B3%B5%EB%AA%A8%EC%A0%84_LGCNS%EC%9E%90%EB%A3%8C.pdf)
 <br/>
 <br/>
 
