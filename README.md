@@ -12,7 +12,7 @@ These are my Marketing-Related Activities...🛍
 <br/>
 
 
-### IT동아 주최 브랜드 매니저 직무 훈련 공모전 [[대상](https://github.com/Yeom-Suji/Marketing-Related/blob/main/LG%20CNS%20%EB%8C%80%EC%83%81.pdf)] 수상
+### IT동아 주최 브랜드 매니저 공모전 [[대상](https://github.com/Yeom-Suji/Marketing-Related/blob/main/LG%20CNS%20%EB%8C%80%EC%83%81.pdf)] 수상
 
    - **LG CNS<br/>**
 발표자료 일부 발췌
