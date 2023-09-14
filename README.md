@@ -167,6 +167,9 @@ These are my Marketing-Related Activities...🛍
    
    **5. 조선일보 ALC 서포터즈**<br/>
 
+   <img src="https://github.com/Yeom-Suji/Marketing-Related/assets/127907081/1994e27b-dc60-40c0-a61c-29aa657860f8" width="300" height="300">
+   <img src="https://github.com/Yeom-Suji/Marketing-Related/assets/127907081/6053bf11-d907-4e6c-9099-210b386cc98d" width="300" height="300">
+
 <br/>
 <br/>
 <br/>
