@@ -167,14 +167,14 @@ These are my Marketing-Related Activities...🛍
    
    **5. 조선일보 ALC 서포터즈**<br/>
 
-   <img src="https://github.com/Yeom-Suji/Marketing-Related/assets/127907081/1994e27b-dc60-40c0-a61c-29aa657860f8" width="300" height="300">
-   <img src="https://github.com/Yeom-Suji/Marketing-Related/assets/127907081/6053bf11-d907-4e6c-9099-210b386cc98d" width="300" height="300">
+   <img src="https://github.com/Yeom-Suji/Marketing-Related/assets/127907081/9e75ef3f-680a-4ef6-bee4-2981e8502d33" width="300" height="300">
+   <img src="https://github.com/Yeom-Suji/Marketing-Related/assets/127907081/e639ad79-dc68-4f14-8c32-8bd705966cb4" width="300" height="300">
 
 <br/>
 <br/>
 <br/>
 <br/>
-<br/>
+
 
 
 ### 특수외국어진흥원 특수외국어로 한국문화유산 소개하기 영상 [작품상]
